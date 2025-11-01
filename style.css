@@ -32,23 +32,23 @@
 }
 
 .color:nth-child(1) {
-  background: #264653;
+  background: #0D1164;
 }
 
 .color:nth-child(2) {
-  background: #2a9d8f;
+  background: #1D267D;
 }
 
 .color:nth-child(3) {
-  background: #e9c46a;
+  background: #19376D;
 }
 
 .color:nth-child(4) {
-  background: #f4a261;
+  background: #205295;
 }
 
 .color:nth-child(5) {
-  background: #e76f51;
+  background: #1597BB;
 }
 
 .color:hover {
